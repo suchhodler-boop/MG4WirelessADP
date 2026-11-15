@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.keystore
+*.jks
+*.pk8
+*.pem
+local.properties

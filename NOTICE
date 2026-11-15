@@ -1,0 +1,11 @@
+MG4 Wireless ADB
+Copyright (C) 2026 MG4 Wireless ADB contributors
+SPDX-License-Identifier: GPL-3.0-only
+
+MG4-specific ADB enable sequence derived from ADBUtil:
+https://github.com/lkernan/ADBUtil
+Copyright (c) 2026 Leon Kernan
+MIT License; full original notice in LICENSE-ADBUtil.
+
+The app uses Android platform APIs. Android SDK tools and the platform
+signing keystore are external build prerequisites, not bundled source.
